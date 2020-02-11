@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AIESECTask/static/css/main.4dceae31.chunk.css",
+    "main.js": "/AIESECTask/static/js/main.7bebed0d.chunk.js",
+    "main.js.map": "/AIESECTask/static/js/main.7bebed0d.chunk.js.map",
+    "runtime-main.js": "/AIESECTask/static/js/runtime-main.eeb08d0d.js",
+    "runtime-main.js.map": "/AIESECTask/static/js/runtime-main.eeb08d0d.js.map",
+    "static/js/2.a21de790.chunk.js": "/AIESECTask/static/js/2.a21de790.chunk.js",
+    "static/js/2.a21de790.chunk.js.map": "/AIESECTask/static/js/2.a21de790.chunk.js.map",
+    "index.html": "/AIESECTask/index.html",
+    "precache-manifest.7ae892a294cd86665eefdcd201fa74f0.js": "/AIESECTask/precache-manifest.7ae892a294cd86665eefdcd201fa74f0.js",
+    "service-worker.js": "/AIESECTask/service-worker.js",
+    "static/css/main.4dceae31.chunk.css.map": "/AIESECTask/static/css/main.4dceae31.chunk.css.map",
+    "static/js/2.a21de790.chunk.js.LICENSE.txt": "/AIESECTask/static/js/2.a21de790.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eeb08d0d.js",
+    "static/js/2.a21de790.chunk.js",
+    "static/css/main.4dceae31.chunk.css",
+    "static/js/main.7bebed0d.chunk.js"
+  ]
+}
